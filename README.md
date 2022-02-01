@@ -21,6 +21,7 @@ and DS & Algo.</h3>
 🥅 **2022 Goals :** Learning new things and contribute more
 
 📫 You can reach me at [chat](mailto:shubhamkr0412@gmail.com)
+
  Visit My Portfolio:  https://shubhamkr0412.netlify.app/
 
 ## 🚀 Languages and Tools:
